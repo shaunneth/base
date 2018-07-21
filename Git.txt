@@ -1,1 +1,1 @@
-Testing to see if my changes will go through after altering the text file in VI
+Testing to see if my changes will go through after altering the text file in VIM
